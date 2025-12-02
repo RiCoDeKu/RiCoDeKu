@@ -9,7 +9,7 @@
 
 <!-- 3. Ability Stack -->
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlibjNoeGVkejY2MGlyNjVib3VrZ3cyb3N5MXZhemEyMm02MGNzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ORrngiC1j952yG8qwS/giphy.gif" width="54"> Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,html,css,js,ts,react,tailwind,next,figma,python,go,docker,swift" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=c,cpp,html,css,js,ts,react,tailwind,next,figma,python,go,docker,swift" />
 <br>
 
 <!-- 4. Other Contents -->
