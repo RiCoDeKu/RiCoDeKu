@@ -10,10 +10,9 @@
 <!-- 3. Ability Stack -->
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlibjNoeGVkejY2MGlyNjVib3VrZ3cyb3N5MXZhemEyMm02MGNzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ORrngiC1j952yG8qwS/giphy.gif" width="54"> Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=16&i=c,cpp,html,css,js,ts,react,tailwind,next,figma,python,go,docker,swift,arduino,linux" />
-<br>
 
 <!-- 4. Other Contents -->
-## GitHub Stats
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhlcHpkZHFicGhiM2w2bXNyMWc3ZW96bHlxZ2hjOTI0YmJocXBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mSq2Y8nouLVhQY720g/giphy.gif" width="54"> GitHub Stats
 
 <p align="center">
   <img src="./images/stats.svg" alt="GitHub Stats" height="170">
