@@ -1,4 +1,4 @@
-<!-- 1. Prodile -->
+<!-- 1. Profile -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=RiCoDeKu" />
 </div>
@@ -13,10 +13,13 @@
 <br>
 
 <!-- 4. Other Contents -->
-<!-- <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=RiCoDeKu&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiCoDeKu&theme=vue-dark&layout=compact" />  
-</div> -->
+## GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RiCoDeKu&column=8&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="./images/stats.svg" alt="GitHub Stats" height="170">
+  <img src="./images/top-langs.svg" alt="Top Languages" height="170">
+</p>
 
+<p align="center">
+  <img src="./images/trophy.svg" alt="GitHub Trophies">
+</p>
