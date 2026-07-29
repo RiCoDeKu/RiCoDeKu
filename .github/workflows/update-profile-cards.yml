@@ -34,11 +34,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate profile trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
+          output_path: images/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          file: images/trophy.svg
           theme: onedark
           cols: -1
           rows: 1
